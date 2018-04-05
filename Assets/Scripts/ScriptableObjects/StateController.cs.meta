@@ -1,0 +1,20 @@
+fileFormatVersion: 2
+guid: 5213091943c75114cb60ece6f4b6703f
+timeCreated: 1521558978
+licenseType: Free
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - currentState: {fileID: 11400000, guid: ea547127e42ed024697b56583eda70fe, type: 2}
+  - shipStats: {instanceID: 0}
+  - eyes: {instanceID: 0}
+  - remainState: {fileID: 11400000, guid: 9aca3646d7a7de448b4dd79e302281de, type: 2}
+  - navMeshAgent: {instanceID: 0}
+  - player: {instanceID: 0}
+  - chaseTarget: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
